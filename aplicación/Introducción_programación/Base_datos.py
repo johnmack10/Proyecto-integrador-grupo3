@@ -1,4 +1,3 @@
-
 import mysql.connector 
 
 HOST = "LocalHost"
